@@ -1,4 +1,4 @@
-#include "int.h"
+#include "Int.h"
 
 void Int::setIntZero()
 {
